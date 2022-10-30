@@ -5,7 +5,7 @@
 Hi! Welcome to the github of Zebepy
  Thanks you, and contributions are welcome.
  
- <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" /> <img alt="Forks" src="https://img.shields.io/github/forks/vodkarm/zebepy?style=social"> <img alt="doc" src="https://img.shields.io/badge/Documentaion-yes-blue"> <img alt="maintened" src="https://img.shields.io/badge/maintened%3F-yes-blue"> ![GitHub Repo stars](https://img.shields.io/github/stars/vodkarm/zebepy?style=social) [![Downloads](https://pepy.tech/badge/zebepy)](https://pepy.tech/project/zebebpy)
+ <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" /> <img alt="Forks" src="https://img.shields.io/github/forks/vodkarm/zebepy?style=social"> <img alt="doc" src="https://img.shields.io/badge/Documentaion-yes-blue"> <img alt="maintened" src="https://img.shields.io/badge/maintened%3F-yes-blue"> ![GitHub Repo stars](https://img.shields.io/github/stars/vodkarm/zebepy?style=social) [![Downloads](https://pepy.tech/badge/zebepy)](https://pepy.tech/project/zebepy)
 
 
  # ❓ What is it ?
