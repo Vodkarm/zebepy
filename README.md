@@ -16,9 +16,7 @@ Yes it is, under MIT License
 ```
 pip install zebepy
 ```
-```py
-from paid4dev import init
-```
+
 ## 🌹 Syntax Exemple
 ```py
 from zebepy import Zebedee
